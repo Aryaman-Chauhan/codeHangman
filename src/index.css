@@ -252,7 +252,7 @@ button.new-game {
   }
 }
 
-/* @media only screen and (max-height: 950px) {
+@media only screen and (max-height: 950px) {
   header > h1 {
     font-size: 1.8rem;
     font-weight: 700;
@@ -315,4 +315,4 @@ button.new-game {
     height: 20px;
     font-size: 0.875rem;
   }
-} */
+}
